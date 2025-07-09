@@ -1,12 +1,8 @@
 # Android_MalDetect_LLM
 <!DOCTYPE html>
 <html>
-<head>
-  <title>LLM-MalDetect - Android Malware Detection</title>
-</head>
 <body>
 
-  <h1>🤖 LLM-MalDetect</h1>
   <p><strong>Android Malware Detection using Large Language Models</strong></p>
 
   <h2>📄 Project Description</h2>
